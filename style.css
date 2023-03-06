@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
+nav{
+    background-color: darkslateblue;
+    margin: auto;
+    width: 90%;
+    padding: 1%;
+    border: 4px solid goldenrod;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 1.2%;
+}
+nav a:hover{
+    color: gold;
+    background-color: darkblue;
+}
+
+
+section{
+    border: 5px solid gold;
+    margin: auto;
+    width: 75%;
+    background-color: darkslategrey;
+    padding: 2px;
+}
+section div{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: auto;
+}
+section div div{
+    border: 2px dotted greenyellow;
+    margin: 2%;
+}
+
+footer{
+    background-color: goldenrod;
+    width: 100%;
+    padding: 1px;
+}
