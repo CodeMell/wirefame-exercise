@@ -43,8 +43,8 @@ section div{
     margin: auto;
 }
 section div div{
-    width: 300px;
-    height: 375px;
+    width: 40%;
+
     border: 2px dotted greenyellow;
     margin: 2%;
 }
