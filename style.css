@@ -4,6 +4,10 @@ body{
     color: white;
 }
 
+img{
+    width: 50%;
+}
+
 nav{
     background-color: darkslateblue;
     margin: auto;
@@ -44,3 +48,4 @@ footer{
     width: 100%;
     padding: 1px;
 }
+
