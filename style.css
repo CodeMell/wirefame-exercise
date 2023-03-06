@@ -4,10 +4,6 @@ body{
     color: white;
 }
 
-img{
-    width: 50%;
-}
-
 nav{
     background-color: darkslateblue;
     margin: auto;
@@ -32,6 +28,9 @@ section{
     width: 75%;
     background-color: darkslategrey;
     padding: 2px;
+}
+section img{
+    width: 40%;
 }
 section div{
     display: flex;
